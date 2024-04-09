@@ -7,7 +7,8 @@ from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.types import PeerChannel
 
 import csv
-from
+
+
 
 client = TelegramClient(phone, api_id, api_hash)
 
