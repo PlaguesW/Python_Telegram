@@ -8,6 +8,7 @@ from telethon.tl.types import PeerChannel
 
 import csv
 
+data = open("data.txt")
 
 
 client = TelegramClient(phone, api_id, api_hash)
